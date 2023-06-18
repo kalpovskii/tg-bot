@@ -15,4 +15,4 @@
 - docker
 
 #### Пример ответов
-![image](https://github.com/kalpovskii/tg-bot/assets/64479736/eb77d52a-836c-46da-9567-99334fc8d53e)
+![image](https://github.com/kalpovskii/tg-bot/assets/64479736/0fcdc3eb-72f0-4f57-a170-b6f7b0ca7b56)
